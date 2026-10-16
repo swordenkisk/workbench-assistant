@@ -1,0 +1,1 @@
+"""Workbench Assistant application package."""
